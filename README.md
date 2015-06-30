@@ -43,8 +43,11 @@
 ### 硬體
 #### I.用Raspberry Pi 控制110V的電器
 希望做到遠端開關的功能首先最需要學習的是如何控制繼電器(我們只要通過繼電器，就可以決定110V是否有通電唷!)
+
 [DIY教學開始]
+
 接法示意圖
+
 ![image](https://github.com/NCNU-OpenSource/aquarium-temperature-monitoring-system/blob/master/image/Pic_001_RELAY.png)
 - step1 首先先將電源線剝開
 - step2 將剝開的電線與插座頭其中一端焊在一起
