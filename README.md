@@ -65,7 +65,12 @@
 [教學網站](https://learn.adafruit.com/downloads/pdf/adafruits-raspberry-pi-lesson-11-ds18b20-temperature-sensing.pdf)
 
 ### 軟體
-- 首先第一步要弄得就是，讓溫度的感測器能夠定時抓取並存入MySQL資料庫 
+- 1.環境架設
+  - [安裝LAMP](http://elinux.org/RPi_A_Simple_Wheezy_LAMP_install)、
+  - [安裝python](https://www.raspberrypi.org/documentation/usage/python/) 
+- 2.讓溫度的感測器能夠定時抓取並存入MySQL資料庫 
+
+1.getTemperature.py
  ```
 import time
 import os
