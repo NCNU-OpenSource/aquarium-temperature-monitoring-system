@@ -24,7 +24,7 @@
 - Python
 
 ## 實作過程
-
+![image](https://github.com/NCNU-OpenSource/aquarium-temperature-monitoring-system/blob/master/image/Pic_001_RELAY.png)
 ## 操作教學
 
 ## 工作分配
