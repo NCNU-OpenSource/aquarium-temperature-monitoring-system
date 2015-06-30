@@ -29,9 +29,29 @@
 
 ## 實作過程
 ### 麵包板不會接
-請教隔壁大神[吳宗翰](https://www.facebook.com/zong.wu.10?fref=ts)
+請教隔壁大神[吳宗翰](https://www.facebook.com/zong.wu.10?fref=ts)並解聽他講解教學。聽完之後豁然開朗，一切都懂了。
+
 ## 運用哪些與課程內容中相關的技巧
+- LINUX基本觀念
+- 運用postfix開機後自動寄送IP至EMAIL
+- APACHE + MYSQL +PHP 的安裝及架設
+- GPIO基本觀念
+- 解決問題的能力
+
+
 ## 組裝過程及製作教學
+### 硬體
+#### I.用Raspberry Pi 控制110V的電器
+希望做到遠端開關的功能首先最需要學習的是如何控制繼電器(我們只要通過繼電器，就可以決定110V是否有通電唷!)
+[DIY教學開始]
+接法示意圖
+![image](https://github.com/NCNU-OpenSource/aquarium-temperature-monitoring-system/blob/master/image/Pic_001_RELAY.png)
+- step1 首先先將電源線剝開
+- step2 將剝開的電線與插座頭其中一端焊在一起
+- step3 將以已剝開的部分上，剪一小條下來，焊在另外一個接點上
+- setp4 將這兩端插在N.O. 和COM 上，鎖好(如下圖)
+![image](https://github.com/NCNU-OpenSource/aquarium-temperature-monitoring-system/blob/master/image/img2.jpg)
+- step5 完成了
 ## 操作教學
 
 ## 工作分配
