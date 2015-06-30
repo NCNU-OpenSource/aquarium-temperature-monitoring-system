@@ -25,9 +25,11 @@
 - Mysql
 - Apache
 - Python
+- WEBIOPI
 
 ## 實作過程
-### 
+### 麵包板不會接
+請教隔壁大神[吳宗翰](https://www.facebook.com/zong.wu.10?fref=ts)
 ## 運用哪些與課程內容中相關的技巧
 ## 組裝過程及製作教學
 ## 操作教學
